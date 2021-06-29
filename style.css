@@ -1,0 +1,61 @@
+html,
+body {
+  font-family: serif;
+}
+body {
+  margin: 2px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  margin-top: 5px;
+  text-align: center;
+  padding: 2px;
+  color: blue;
+}
+
+#city {
+  display: block;
+  padding: 1px;
+  margin: 1px auto;
+  background-color: rgb(57, 148, 184);
+}
+
+.main-block {
+  width: 60%;
+  margin: 10px auto;
+  background-color: rgb(118, 96, 216);
+  color: cornsilk;
+  padding: 5px;
+}
+
+#town {
+  margin: 0;
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  padding: 1px;
+  text-align: center;
+  font-size: 25px;
+}
+
+#temp {
+  font-size: 35px;
+}
+
+#img {
+  display: block;
+  width: 20%;
+  border-radius: 10%;
+  margin: 0 auto;
+}
+
+.picture {
+  border-radius: 20%;
+  padding:10px ;
+}
